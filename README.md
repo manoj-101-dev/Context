@@ -1,8 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app has card that calculates the item price by the quantity. if the quantity is increased the total price will be incresed according to the original price.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## To Run the Apllication
+
+In the command prompt or powershell use the command
+
+`npm run dev`
+
+To view the live site of the app click the beolw link.
+
+- [@Live-site]()
