@@ -1,7 +1,5 @@
 # Shopping Cart App
 
-This is a simple shopping cart application built using React and Vite. The app contains a card component that calculates the item price based on the selected quantity. As the quantity increases, the total price is dynamically updated according to the original item price.
-
 ## Introduction
 
 The shopping cart application allows users to interact with a card component that displays item details, including the original price. Users can select the quantity, and the card dynamically updates the total price based on the chosen quantity and the original price of the item.
